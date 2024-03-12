@@ -14,6 +14,6 @@ This Terraform script allows you to deploy Grafana on AWS ECS, with a connected 
 
 `terraform apply "tfplan"  -var-file=prod.tfvars`
 
-## How do I get delete everything?
+## How do I delete everything?
 
 `terraform destroy`
